@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shruti Omar</h1>
+<h1 align="left">Hi 👋, I'm Shruti Omar ....</h1>
 <h4 align="left">Expertise in React.js, HTML, CSS, JavaScript, and C, I bring a robust technical background and a proactive
 approach to problem-solving. As a committed professional, I'm poised to contribute effectively to software
 engineering projects and keen on exploring new opportunities.</h4>
