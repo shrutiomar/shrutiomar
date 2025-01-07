@@ -5,7 +5,7 @@ engineering projects and keen on exploring new opportunities.</h4>
 
 
 - 📫 How to reach me **shrutigupta2596@gmail.com**
-- My Portfolio **shrutiomar.github.io/shrutiomar/**
+- My Portfolio **https://shrutiomar.github.io/shrutiomar/**
 
 # 🌐 Connect
 
