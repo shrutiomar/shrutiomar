@@ -3,7 +3,6 @@
 approach to problem-solving. As a committed professional, I'm poised to contribute effectively to software
 engineering projects and keen on exploring new opportunities.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiomar&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiomar" /> </p>
 
 - 📫 How to reach me **shrutigupta2596@gmail.com**
 - My Portfolio **shrutiomar.github.io/shrutiomar/**
