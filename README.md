@@ -13,6 +13,4 @@ engineering projects and keen on exploring new opportunities.</h4>
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoWidth=20&logoColor=white)](https://linkedin.com/in/shrutiomarcoder/)&nbsp;
 
 
-# 📊 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiomar&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiomar&layout=compact&theme=radical)
+
